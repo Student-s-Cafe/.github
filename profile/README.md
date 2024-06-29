@@ -1,4 +1,4 @@
-# 🍵 Student Cafe 🍵
+# 🍵 Student's Cafe 🍵
 
 ## About Us
 We are a group of students who originally started meeting at local cafes to study and revise together. Over time, we discovered a shared passion for technology and programming, and decided to collaborate on developing various tools and platforms to support students like ourselves.
